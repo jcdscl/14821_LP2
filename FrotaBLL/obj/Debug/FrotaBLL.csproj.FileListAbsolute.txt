@@ -1,0 +1,1 @@
+C:\Git\GestaoFrota\FrotaBLL\obj\Debug\FrotaBLL.csprojAssemblyReference.cache

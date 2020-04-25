@@ -1,0 +1,1 @@
+C:\Git\GestaoFrota\FrotaUI\obj\Debug\FrotaUI.csprojAssemblyReference.cache

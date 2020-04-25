@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaUI", "FrotaUI\FrotaUI.csproj", "{C1E9AF33-06EA-4FDE-A473-44F2FD0A259B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaBLL", "FrotaBLL\FrotaBLL.csproj", "{894C924E-FC51-431A-87F5-74D006759865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaDAL", "FrotaDAL\FrotaDAL.csproj", "{9440606B-8FAC-4F49-A110-7484A91B4EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E9AF33-06EA-4FDE-A473-44F2FD0A259B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E9AF33-06EA-4FDE-A473-44F2FD0A259B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E9AF33-06EA-4FDE-A473-44F2FD0A259B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E9AF33-06EA-4FDE-A473-44F2FD0A259B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894C924E-FC51-431A-87F5-74D006759865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894C924E-FC51-431A-87F5-74D006759865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894C924E-FC51-431A-87F5-74D006759865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894C924E-FC51-431A-87F5-74D006759865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AA734B-107E-4458-9F86-35CC27F1E554}
+	EndGlobalSection
+EndGlobal
