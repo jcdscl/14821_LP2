@@ -1,1 +1,7 @@
 C:\Git\GestaoFrota\FrotaBLL\obj\Debug\FrotaBLL.csprojAssemblyReference.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBLL.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBLL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBLL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.csprojAssemblyReference.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.pdb

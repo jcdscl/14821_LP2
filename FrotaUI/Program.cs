@@ -21,6 +21,9 @@ namespace FrotaUI
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("DELLLLL");
+            Console.ReadKey();
         }
     }
 }
