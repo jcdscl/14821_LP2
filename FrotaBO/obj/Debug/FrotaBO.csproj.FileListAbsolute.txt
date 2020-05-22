@@ -1,0 +1,7 @@
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\bin\Debug\FrotaBO.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\bin\Debug\FrotaBO.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\bin\Debug\FrotaBO.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\obj\Debug\FrotaBO.csprojAssemblyReference.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\obj\Debug\FrotaBO.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\obj\Debug\FrotaBO.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBO\obj\Debug\FrotaBO.csproj.CoreCompileInputs.cache

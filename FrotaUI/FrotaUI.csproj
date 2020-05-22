@@ -72,6 +72,10 @@
       <Project>{894c924e-fc51-431a-87f5-74d006759865}</Project>
       <Name>FrotaBLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FrotaBO\FrotaBO.csproj">
+      <Project>{75960f82-dcb3-4057-976c-8f60ffe600ee}</Project>
+      <Name>FrotaBO</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

@@ -1,39 +1,54 @@
 ﻿//-------------------------------------------------------------------------------------------
-// <copyright file="Veiculo.cs" company="IPCA - Instituto Politecnico do Cavado e do Ave">
+// <copyright file="VeiculoBO.cs" company="IPCA - Instituto Politecnico do Cavado e do Ave">
 // </copyright>
 // <description>Gestao Frota Veiculos</description>
 // <date>11/04/2020</date>
-// <time>11:53</time>
 // <author>Jose Loureiro</author>
 // <email>a14821@alunos.ipca.pt</email>
 //-------------------------------------------------------------------------------------------
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FrotaBLL.Veiculo
+namespace FrotaBO
 {
-    class Veiculo
+    /// <summary>
+    /// gerir objeto
+    /// </summary>
+    [Serializable]
+    public class VeiculoBO
     {
         #region ATRIBUTOS
+
         private string matricula;
         private string fabricante;
         private string cor;
-        private EnumEstadoVeiculo estadoVeiculo;
+        private ENUM_ESTADO_VEICULO estadoVeiculo;
 
+        #endregion ATRIBUTOS
 
-        #endregion
+        #region CONSTRUTORES
+
+        public VeiculoBO(string matricula,
+                       string fabricante,
+                       string cor,
+                       ENUM_ESTADO_VEICULO estadoVeiculo)
+        {
+            Matricula = matricula;
+            Fabricante = fabricante;
+            Cor = cor;
+            EstadoVeiculo = estadoVeiculo;
+        }
+
+        #endregion CONSTRUTORES
 
         #region PROPERTIES
+
         /// <summary>
         /// Handle the atribute "matricula"
         /// </summary>
         public string Matricula { get => matricula; set => matricula = value; }
 
         /// <summary>
-        /// Handle the atribute "fabricante" 
+        /// Handle the atribute "fabricante"
         /// </summary>
         public string Fabricante { get => fabricante; set => fabricante = value; }
 
@@ -45,18 +60,19 @@ namespace FrotaBLL.Veiculo
         /// <summary>
         /// Handle the atribute "EnumEstadoVeiculo"
         /// </summary>
-        private EnumEstadoVeiculo EstadoVeiculo { get => estadoVeiculo; set => estadoVeiculo = value; }
-        #endregion
+        public ENUM_ESTADO_VEICULO EstadoVeiculo { get => estadoVeiculo; set => estadoVeiculo = value; }
+
+        #endregion PROPERTIES
 
         #region ENUM
-        enum EnumEstadoVeiculo
+
+        public enum ENUM_ESTADO_VEICULO
         {
-            indisponivel,
-            disponivel,
+            indisponivel, // ex: manutencao, vendido ...
+            disponivel,   // pronto para ser atribuido
+            atribuido,    // se ja' tiver motorista
         };
-        #endregion
 
-
+        #endregion ENUM
     }
-
 }

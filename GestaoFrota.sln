@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaBLL", "FrotaBLL\FrotaB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaDAL", "FrotaDAL\FrotaDAL.csproj", "{9440606B-8FAC-4F49-A110-7484A91B4EC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrotaBO", "FrotaBO\FrotaBO.csproj", "{75960F82-DCB3-4057-976C-8F60FFE600EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9440606B-8FAC-4F49-A110-7484A91B4EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75960F82-DCB3-4057-976C-8F60FFE600EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75960F82-DCB3-4057-976C-8F60FFE600EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75960F82-DCB3-4057-976C-8F60FFE600EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75960F82-DCB3-4057-976C-8F60FFE600EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

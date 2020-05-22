@@ -46,19 +46,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AtribuicaoVeiculo\AtribuicaoVeiculo.cs" />
     <Compile Include="Pessoa\AdministradorBLL.cs" />
-    <Compile Include="Pessoa\ColaboradorBLL.cs" />
     <Compile Include="Pessoa\GerenteOperacionalBLL.cs" />
     <Compile Include="Pessoa\ICartaConducao.cs" />
     <Compile Include="Pessoa\MotoristaBLL.cs" />
-    <Compile Include="Pessoa\PessoaBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pessoa\RecursosHumanosBLL.cs" />
-    <Compile Include="Veiculo\Veiculo.cs" />
+    <Compile Include="Veiculo\VeiculoBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FrotaBO\FrotaBO.csproj">
+      <Project>{75960f82-dcb3-4057-976c-8f60ffe600ee}</Project>
+      <Name>FrotaBO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FrotaDAL\FrotaDAL.csproj">
+      <Project>{9440606b-8fac-4f49-a110-7484a91b4ec0}</Project>
+      <Name>FrotaDAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -4,3 +4,16 @@ C:\Git\GestaoFrota\FrotaDAL\bin\Debug\FrotaDAL.pdb
 C:\Git\GestaoFrota\FrotaDAL\obj\Debug\FrotaDAL.csprojAssemblyReference.cache
 C:\Git\GestaoFrota\FrotaDAL\obj\Debug\FrotaDAL.exe
 C:\Git\GestaoFrota\FrotaDAL\obj\Debug\FrotaDAL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaDAL.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaDAL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaDAL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaBO.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaBO.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\FrotaBO.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\obj\Debug\FrotaDAL.csprojAssemblyReference.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\obj\Debug\FrotaDAL.csproj.CopyComplete
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\obj\Debug\FrotaDAL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\obj\Debug\FrotaDAL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\obj\Debug\FrotaDAL.csproj.CoreCompileInputs.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaDAL\bin\Debug\Newtonsoft.Json.xml

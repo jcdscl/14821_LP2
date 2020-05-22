@@ -1,46 +1,60 @@
 ﻿//-------------------------------------------------------------------------------------------
-// <copyright file="PessoaBLL.cs" company="IPCA - Instituto Politecnico do Cavado e do Ave">
+// <copyright file="PessoaBO.cs" company="IPCA - Instituto Politecnico do Cavado e do Ave">
 // </copyright>
 // <description>Gestao Frota Veiculos</description>
 // <date>11/04/2020</date>
-// <time>12:02</time>
 // <author>Jose Loureiro</author>
 // <email>a14821@alunos.ipca.pt</email>
 //-------------------------------------------------------------------------------------------
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FrotaBLL
+namespace FrotaBO
 {
-    class PessoaBLL
+    [Serializable]
+    public abstract class PessoaBO
     {
-     
         #region ATRIBUTOS
+
         private string nomeCompleto;
         private string NIF;
         private DateTime dataNasciemnto;
         private string numeroTelemovel;
         private string email;
-        private EnumNivelAcesso nivelAcesso;
+        private ENUM_NIVEL_ACESSO nivelAcesso;
+        private bool emAtividade;
 
-        #endregion
-        
-        #region CONSTRUCTORS
-        //fase 2
-        #endregion
+        public PessoaBO()
+        {
+        }
+
+        public PessoaBO(string nomeCompleto,
+                      string NIF,
+                      DateTime dataNasciemnto,
+                      string numeroTelemovel,
+                      string email,
+                      ENUM_NIVEL_ACESSO nivelAcesso,
+                      bool emAtividade)
+        {
+            NomeCompleto = nomeCompleto;
+            NIF1 = NIF;
+            DataNasciemnto = dataNasciemnto;
+            NumeroTelemovel = numeroTelemovel;
+            Email = email;
+            NivelAcesso = nivelAcesso;
+            EmAtividade = emAtividade;
+        }
+
+        #endregion ATRIBUTOS
 
         #region PROPERTIES
 
         /// <summary>
-        /// Handle the atribute "dataNascimento", 
+        /// Handle the atribute "dataNascimento",
         /// </summary>
         public DateTime DataNasciemnto
         {
-            get => dataNasciemnto; 
+            get => dataNasciemnto;
             set
             {
                 DateTime tempDataNascimento;
@@ -64,32 +78,38 @@ namespace FrotaBLL
         /// Handle the atribute "email"
         /// </summary>
         public string Email { get => email; set => email = value; }
-       
+
         /// <summary>
         /// Handle the atribute "NIF"
         /// </summary>
         public string NIF1 { get => NIF; set => NIF = value; }
 
         /// <summary>
+        /// Handle de atribute "emAtividade"
+        /// </summary>
+        public bool EmAtividade { get => emAtividade; set => emAtividade = value; }
+
+        /// <summary>
         /// Handle the atribute "nivelAcesso"
         /// </summary>
-        private EnumNivelAcesso NivelAcesso { get => nivelAcesso; set => nivelAcesso = value; }
-        #endregion
+        public ENUM_NIVEL_ACESSO NivelAcesso { get => nivelAcesso; set => nivelAcesso = value; }
+
+        #endregion PROPERTIES
 
         #region ENUM
+
         /// <summary>
         /// Enum "EnumNivelAcesso" to users
         /// </summary>
-        enum EnumNivelAcesso
+        public enum ENUM_NIVEL_ACESSO
         {
             Administrador,
             GerenteOperacional,
             RecursosHumanos,
             Motorista,
-        
+            NenhumAcesso,
         };
-        #endregion
-    }
 
-    
+        #endregion ENUM
+    }
 }

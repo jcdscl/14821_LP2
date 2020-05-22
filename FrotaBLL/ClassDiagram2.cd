@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FrotaBO.AtribuicaoVeiculo.AtribuicaoVeiculo" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQAAAAEAAAAAAAAAAAAACAAAAAgAAACAAAA=</HashCode>
+      <FileName>AtribuicaoVeiculo\AtribuicaoVeiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBO.AdministradorBLL">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Pessoa\AdministradorBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBO.ColaboradorBLL" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa\ColaboradorBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBO.GerenteOperacionalBLL">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa\GerenteOperacionalBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBO.MotoristaBLL">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Pessoa\MotoristaBLL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FrotaBO.PessoaBLL" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAESCAAAAggAQAAAAAEAAAAAAAgAAAAIAAAAI=</HashCode>
+      <FileName>Pessoa\PessoaBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBO.RecursosHumanosBLL">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa\RecursosHumanosBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrotaBLL.VeiculoBLL" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Veiculo\VeiculoBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FrotaBO.ICartaConducao" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pessoa\ICartaConducao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

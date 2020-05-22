@@ -9,3 +9,13 @@ C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\obj\Debug\FrotaUI.c
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\obj\Debug\FrotaUI.csproj.CopyComplete
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\obj\Debug\FrotaUI.exe
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\obj\Debug\FrotaUI.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaBO.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaBO.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaBO.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaDAL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaDAL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaDAL.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\FrotaDAL.exe.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\obj\Debug\FrotaUI.csproj.CoreCompileInputs.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaUI\bin\Debug\Newtonsoft.Json.xml

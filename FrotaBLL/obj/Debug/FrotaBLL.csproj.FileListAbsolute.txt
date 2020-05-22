@@ -5,3 +5,14 @@ C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBLL
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.csprojAssemblyReference.cache
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.dll
 C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBO.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBO.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaBO.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.csproj.CopyComplete
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaDAL.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaDAL.pdb
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaDAL.dll.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\FrotaDAL.exe.config
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\obj\Debug\FrotaBLL.csproj.CoreCompileInputs.cache
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JoséCarlosdaSilvaCar\Desktop\Git\14821_LP2\FrotaBLL\bin\Debug\Newtonsoft.Json.xml
